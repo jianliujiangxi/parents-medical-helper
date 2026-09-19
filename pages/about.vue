@@ -1,0 +1,2 @@
+<script setup lang="ts">useHead({ title: '关于项目' })</script>
+<template><section><h1>关于这个公益项目</h1><p class="lead">目标不是替代政府，也不是做医疗咨询，而是把跨地区民生规则翻译成普通家庭能照着执行的步骤。</p><div class="notice-box"><strong>产品边界</strong><p>官方负责资格审核、备案、结算和待遇计算；本工具只负责“理解情况 → 给出下一步 → 链接官方入口 → 生成办事卡”。</p></div><p>项目计划保持免费、无广告、尽量少收数据。后续如接受自愿支持，也不与任何核心功能绑定。</p></section></template>

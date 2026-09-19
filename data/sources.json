@@ -1,0 +1,76 @@
+[
+  {
+    "id": "NHSA-2022-22",
+    "authority": "国家医疗保障局、财政部",
+    "title": "关于进一步做好基本医疗保险跨省异地就医直接结算工作的通知（医保发〔2022〕22号）及经办规程",
+    "url": "https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html",
+    "level": "national",
+    "publishedAt": "2022-07-26",
+    "effectiveFrom": "2023-01-01",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 90,
+    "note": "跨省异地就医分类、备案、急诊、持码卡、直接结算等国家统一规则。"
+  },
+  {
+    "id": "NHSA-2025-GUIDE",
+    "authority": "国家医疗保障局",
+    "title": "“跨省异地”就医如何直接报销？",
+    "url": "https://www.nhsa.gov.cn/art/2025/6/7/art_14_16754.html",
+    "level": "national",
+    "publishedAt": "2025-06-07",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 90,
+    "note": "国家医保局异地备案操作与查询服务说明。"
+  },
+  {
+    "id": "NPS-2025-MEDICAL",
+    "authority": "国家政务服务平台",
+    "title": "医保服务专区：异地就医办理流程",
+    "url": "https://gjzwfw.www.gov.cn/col/col1576/index.html",
+    "level": "national",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 90,
+    "note": "官方公共服务入口，包含备案、备案记录、定点机构、慢特病资格等。"
+  },
+  {
+    "id": "NHSA-SERVICE-PORTAL",
+    "authority": "国家医疗保障局",
+    "title": "国家医保服务平台",
+    "url": "https://fuwu.nhsa.gov.cn/",
+    "level": "national",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 60,
+    "note": "国家医保官方服务平台。部分具体办理需使用APP/小程序。"
+  },
+  {
+    "id": "JIANGXI-SERVICE",
+    "authority": "江西省医疗保障局",
+    "title": "江西医保网上服务大厅",
+    "url": "https://ggfw.ybj.jiangxi.gov.cn/",
+    "level": "province",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 60,
+    "note": "江西官方医保公共服务门户。"
+  },
+  {
+    "id": "JIANGXI-APP",
+    "authority": "江西省医疗保障局",
+    "title": "江西智慧医保APP",
+    "url": "https://ggfw.ybj.jiangxi.gov.cn/h5-download/",
+    "level": "province",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 90,
+    "note": "江西智慧医保官方下载入口。"
+  },
+  {
+    "id": "GUANGZHOU-2025-CROSSPROVINCE",
+    "authority": "广州市人民政府（来源：广州医保）",
+    "title": "异地就医不用愁！住院、门诊费用直接结算，便捷查询定点医疗机构名单",
+    "url": "https://www.gz.gov.cn/zwfw/zxfw/ylfw/content/post_10224952.html",
+    "level": "city",
+    "publishedAt": "2025-04-17",
+    "verifiedAt": "2026-09-19",
+    "reviewIntervalDays": 90,
+    "note": "广州作为就医地的跨省住院、普通门诊、门诊慢特病直接结算服务说明。"
+  }
+]
