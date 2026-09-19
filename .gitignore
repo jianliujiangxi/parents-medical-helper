@@ -1,3 +1,5 @@
 *.zip
 demo/
 node_modules/
+
+.output/
